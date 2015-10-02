@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+0<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
 
 
 - [(주)엔비티][nbt-devsite] 재직 중, 소프트웨어 개발자/Agile 에반젤리스트<br>
