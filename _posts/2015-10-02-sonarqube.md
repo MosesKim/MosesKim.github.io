@@ -3,7 +3,7 @@ layout: post
 title: 번역 | SonarQube. Mainstream
 author: Moses Kim
 date:   2015-10-02 08:43:59
-categories: SonarQube
+categories: sonarqube
 permalink:
 tags: sonarqube blogs
 comments: true
