@@ -6,7 +6,7 @@ date:   2015-10-02 08:43:59
 categories: SonarQube
 permalink:
 tags: sonarqube blogs
-
+comments: true
 ---
 
 #### 이 글은 소나큐브 블로그([원문보기]((http://www.sonarqube.org/mainstream-noun-the-principal-or-dominant-course-tendency-or-trend/)))의 글을 번역한 내용입니다.

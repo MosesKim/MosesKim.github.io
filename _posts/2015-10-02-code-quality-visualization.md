@@ -6,6 +6,7 @@ date:   2015-10-02 08:43:59
 categories: Books
 permalink: /books/code-quality-visualization/
 tags: code quality visualization sonarqube
+commnets: true
 
 ---
 
