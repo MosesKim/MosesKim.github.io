@@ -33,8 +33,6 @@ jekyll-archives:
 # Disqus comments
 disqus_shortname: moseskim
 
-## facebook
-
 ## comments enables
 comments:
     disqus: true

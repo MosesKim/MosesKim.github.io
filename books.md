@@ -9,7 +9,7 @@ permalink: /books/
 
 <h3>저서</h3>
 
-#### [코드 품질 시각화의 정석(상세보기)](/books/code-quality-visualization)
+#### [코드 품질 시각화의 정석(상세보기)]({{ site.baseurl }}books/2015/10/02/code-quality-visualization.html)
 - 출판일:
 - ISBN:
 - 출판사:
