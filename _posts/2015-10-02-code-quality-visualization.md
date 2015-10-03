@@ -4,9 +4,9 @@ title: 코드 품질 시각화의 정석
 author: Moses Kim
 date:   2015-10-02 08:43:59
 categories: Books
-permalink: 
+permalink:
 tags: code quality visualization sonarqube
-commnets: true
+comments: true
 ---
 
 <img src="{{ site.baseurl }}assets/books/sonarqube.jpg" title="Profile Picture" class="profile" width="640">
