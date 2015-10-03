@@ -31,7 +31,14 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: bencentra
+disqus_shortname: moseskim
+
+## facebook
+
+## comments enables
+comments:
+    disqus: true
+    facebook: true
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
@@ -92,7 +99,7 @@ social:
   - name: LinkedIn
     icon: linkedin
     username: Moses Kim
-    url: 
+    url:
     desc: Connect with me on LinkedIn
     share_url: //www.linkedin.com/shareArticle
     share_title: ?mini=true
