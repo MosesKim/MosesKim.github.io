@@ -47,16 +47,16 @@ permalink: /about/
 
 **2015년도**
 
-- 10월) GCS School, [소나큐브를 활용한 지속적인 코드 품질 개선](http://medici-edu.co.kr/course/sub1_view.php?qr=&lst_code2=005&ptype=view&page=1&s_idx=78&main=Y) 강의 <sub>주관: nipa 공개SW 역량프라자</sub>
-- 09월) GCS School, [소나큐브를 활용한 지속적인 코드 품질 개선] 기업 방문 강의, [Systran International](http://www.csli.co.kr/) <sub>주관: nipa 공개SW 역량 프라자</sub>
-- 08월) [SW 품질 시각화와 지속적 관리, 테스팅을 만나다](http://sten.or.kr/bbs/board.php?bo_table=news&wr_id=3122) 특강 <sub>주관: STA</sub>
-- 07월) GCS School, [소나큐브를 활용한 지속적인 코드 품질 개선](http://medici-edu.co.kr/course/sub1_view.php?qr=&lst_code2=005&ptype=view&page=1&main=N&s_idx=71) 강의 <sub>주관: nipa 공개SW 역량프라자 주관</sub>
-- 06월) [SW 품질 시각화와 지속적 관리, 테스팅을 만나다](http://sten.or.kr/bbs/board.php?bo_table=news&wr_id=3098) 특강 <sub>주관: STA</sub>
-- 04월) 제76회 Open Technet, ["지속적인 통합 환경에서의 SW품질 시각화를 통한 효과적인 코드 리뷰 수행 방안"](http://sten.or.kr/bbs/board.php?bo_table=news&wr_id=3085) 세션 <sub>주관: nipa 공개SW 역량프라자</sub>
+- 10월) GCS School, "[소나큐브를 활용한 지속적인 코드 품질 개선](http://medici-edu.co.kr/course/sub1_view.php?qr=&lst_code2=005&ptype=view&page=1&s_idx=78&main=Y)" 강의 <sub>주관: nipa 공개SW 역량프라자</sub>
+- 09월) GCS School, "소나큐브를 활용한 지속적인 코드 품질 개선" 기업 방문<sub>[Systran International](http://www.csli.co.kr/)</sub> 강의 <sub>주관: nipa 공개SW 역량 프라자</sub>
+- 08월) "[SW 품질 시각화와 지속적 관리, 테스팅을 만나다](http://sten.or.kr/bbs/board.php?bo_table=news&wr_id=3122)" 특강 <sub>주관: STA</sub>
+- 07월) GCS School, "[소나큐브를 활용한 지속적인 코드 품질 개선](http://medici-edu.co.kr/course/sub1_view.php?qr=&lst_code2=005&ptype=view&page=1&main=N&s_idx=71)" 강의 <sub>주관: nipa 공개SW 역량프라자</sub>
+- 06월) "[SW 품질 시각화와 지속적 관리, 테스팅을 만나다](http://sten.or.kr/bbs/board.php?bo_table=news&wr_id=3098)" 특강 <sub>주관: STA</sub>
+- 04월) 제76회 Open Technet, ""[지속적인 통합 환경에서의 SW품질 시각화를 통한 효과적인 코드 리뷰 수행 방안](http://sten.or.kr/bbs/board.php?bo_table=news&wr_id=3085)" 세션 <sub>주관: nipa 공개SW 역량프라자</sub>
 
 **2014년도**
 
-- 12월) 2014 소프트웨어 테스팅 프랙티스 세미나 부산, [소프트웨어품질 시각화의 정석](http://www.sten.or.kr/bbs/board.php?bo_table=market&wr_id=945&sca=03) 세션 <sub>주관: 동남권 SW품질역량센터, STA</sub>
+- 12월) 2014 소프트웨어 테스팅 프랙티스 세미나 부산, "[소프트웨어품질 시각화의 정석](http://www.sten.or.kr/bbs/board.php?bo_table=market&wr_id=945&sca=03)" 세션 <sub>주관: 동남권 SW품질역량센터, STA</sub>
 
 
 [nbt-devsite]: http://nbtpartners.github.io/
