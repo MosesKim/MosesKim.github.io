@@ -10,18 +10,12 @@ permalink: /books/
 <h3>저서</h3>
 
 #### [코드 품질 시각화의 정석(상세보기)]({{ site.baseurl }}books/2015/10/02/code-quality-visualization.html)
-- 출판일:
-- ISBN:
-- 출판사:
-- 온라인 서점(가나다순):
-  - 교보문고
-  - 네이버
-  - 알라딘
-  - 영풍문고
-  - yes24
+- 출판일: 2015.01
+- ISBN: ISBN13 978-89-9382-793-4
+- 출판사: [지앤선](http://jinson.tistory.com/)([페이스북](https://www.facebook.com/JiandSon))
+- 2015 세종도서 학술부문 선정([출판사](http://jinson.tistory.com/273), [세종도서 온라인 시스템 ](http://bookapply.kpipa.or.kr/front/board.act?BID=1BI4DJHy9H&BCA=&CMD=v&BRD000=3603&PAG=0))
 
 ### 번역서
-준비중입니다.
 
 ### 일반 번역
 

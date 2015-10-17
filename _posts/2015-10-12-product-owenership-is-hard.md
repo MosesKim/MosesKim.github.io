@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 번역 | 프로덕트 오너십은 매우 어렵다
+title: 번역_프로덕트 오너십은 매우 어렵다
 author: Dan Rawsthorne/ Moses Kim (Translation)
 date:   2015-10-12 11:30:00
 categories: Agile

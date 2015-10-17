@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}assets/images/1510-profile.jpg" title="Moses Kim" class="profile">
 
 
-- [(주)엔비티][nbt-cashslide]/ 소프트웨어 개발자/ Lean & Agile Evangelist<br>
+- [(주)엔비티][nbt-cashslide]/ 소프트웨어 엔지니어/ Lean & Agile Evangelist<br>
+- [한동대학교][handong-global-university] 전산전자공학학부<br>
 - ISTQB CTAL Full Achieved/ IREB CPRE FL/ Certified Scrum Master
-- [한동대학교][handong-global-university] 전산전자공학학부 졸업<br>
+
 <br>
 
 #### 연락처
@@ -29,13 +30,13 @@ permalink: /about/
 <br>
 
 #### 저서 및 번역
-- [코드 품질 시각화의 정석](/books/code-quality-visualization)(저서)/ ISBN13 978-89-9382-793-4/ [지앤선][jiandson-site] ([교보문고](site-kyobobooks), [네이버](site-naver), [알라딘](site-aladdin), [영풍문고](site-ypbooks), [yes24](site-yes24))<br>
+- [코드 품질 시각화의 정석][book-sonarqube](저서)/ ISBN13 978-89-9382-793-4/ [지앤선][jiandson-site] ([교보문고](site-kyobobooks), [네이버](site-naver), [알라딘](site-aladdin), [영풍문고](site-ypbooks), [yes24](site-yes24))<br>
 <br>
 
 #### 강의 요청
 아래 내용을 이메일([creatinov.kim@gmail.com](mailto:creatinov.kim@gmail.com))로 보내주세요.<br>
 
-- 제목: 예) [강의 문의] 다음과 같이 강의 요청 드립니다.
+- 제목: 예) [강의 문의] 강의 요청 드립니다.
 - 주제: 예) 소나큐브를 활용한 지속적인 코드 품질 개선
 - 일시: 예) 2015.10.1/ 09:00~18:00 (8시간)
 - 장소: 예) (주)지속적품질개선기업 2층 회의실
@@ -44,6 +45,8 @@ permalink: /about/
 <br>
 
 #### 강의 이력
+
+<img src="{{ site.baseurl}}assets/images/1504-open-technet.jpg" border="0" width="95%" align="center" title="2015.04 76th Open Thecnet">
 
 **2015년도**
 
@@ -68,3 +71,4 @@ permalink: /about/
 [site-ypbooks]: http://www.ypbooks.co.kr/m_detail_view.yp?code=100578379&header_nav=01
 [site-yes24]: http://www.yes24.com/24/Goods/16370970?Acode=101
 [handong-global-university]: https://www.handong.edu/
+[book-sonarqube]: {{ site.baseurl }}books/2015/10/02/code-quality-visualization.html
