@@ -10,7 +10,7 @@ comments: true
 #cover: assets/images/151015-change-isnt-free.jpg
 ---
 
-> 이 글은 [scrum.org|blog][scrum-org-blog] 블로그에게재된 [Is Scrum an Asperger's Frined of Foe][scrum-friend-of-foe]를 번역한 것입니다.
+> 이 글은 [scrum.org|blog][scrum-org-blog] 블로그에 게재된 [Is Scrum an Asperger's Frined of Foe][scrum-friend-or-foe]를 번역한 것입니다.
 저의 의견과 100% 일치하지 않을 수 있으며, 저작권에 문제가 될 경우 언제든지 삭제될 수 있습니다(저작권 문의 중).
 
 ---
