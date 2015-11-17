@@ -101,7 +101,7 @@ cover: assets/images/151117-scale-large-retros-01.png
 [large-scale-retros]: https://labs.spotify.com/2015/11/05/large-scale-retros/
 [get-everyone-into-one-big-room]: http://blog.crisp.se/2013/01/22/henrikkniberg/how-to-run-a-big-retrospectives
 [large-session]: http://blog.crisp.se/2013/01/22/henrikkniberg/how-to-run-a-big-retrospectives
-[moments-and-runing]: https://press.spotify.com/mc/2015/05/20/say-hello-to-the-most-entertaining-spotify-ever/
+[moments-and-running]: https://press.spotify.com/mc/2015/05/20/say-hello-to-the-most-entertaining-spotify-ever/
 [sony-playstation-music]: https://press.spotify.com/mx/2015/03/30/soundtrack-your-game-with-spotify-on-playstationmusic/
 
 [^footnote1]: 옮긴이_원문에서는 'Spice girl question--What do you want, really really want'이라는 표현을 사용했으나, 번역본에서는 한국에서 이해하기 쉬운 표현으로 변경하였습니다.
