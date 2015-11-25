@@ -7,7 +7,7 @@ categories: Agile
 permalink:
 tags:
 comments: true
-cover: assets/images/151117-scale-large-retros-01.png
+cover: assets/images/151117/151117-scale-large-retros-01.png
 ---
 
 
@@ -30,7 +30,7 @@ cover: assets/images/151117-scale-large-retros-01.png
 
 이러한 상황이 혹시라도 여러분이 느끼고 있는 대규모 프로그램의 회고와 비슷하지 않은가요?
 
-<img src="{{ site.baseurl }}assets/images/151117-scale-large-retros-01.png" border="0" align="center">
+<img src="{{ site.baseurl }}assets/images/151117/151117-scale-large-retros-01.png" border="0" align="center">
 
 2014년 후반, 우리는 우리는 NYC와 Stockholm의 80~90명에 이르는 동료들과 함께 혁신적인 방법의 회고 프로그램을 운영해 볼 기회를 가지게 되었습니다. [거대한 하나의 세션][large-session]을 진행하는 대신 좀 다른 것을 시도해 보았습니다--그리고 이 방법이 앞서 말씀드린 상황에서 꽤 효과적이라는 것을 발견했습니다.
 
@@ -42,7 +42,7 @@ cover: assets/images/151117-scale-large-retros-01.png
 
 요약하면 다음과 같습니다:
 
-<img src="{{ site.baseurl }}assets/images/151117-scale-large-retros-02.png" border="0" align="center">
+<img src="{{ site.baseurl }}assets/images/151117/151117-scale-large-retros-02.png" border="0" align="center">
 
 # 실제로 적용한 방법
 
@@ -50,7 +50,7 @@ cover: assets/images/151117-scale-large-retros-01.png
 
 다행스럽게도(^^) 스포티파이에서는 그럴 필요는 없었습니다. 따라서 **Step 1** 은 애자일 코치들에게 자원자들을 찾아서 소규모의 퍼실리테이터 워킹 그룹<sub>working group of facilitators</sub>을 구성하도록 이메일을 보내는 것으로 시작했습니다. 워킹 그룹을 형성한 후에는 '회고 활동의 기대치 설정, 목적 수립, 회고의 중요성과 관련한 회사 및 회고 참여자들과의 커뮤니케이션" 활동들을 순환반복 했습니다. 우리는 상위 레벨의 회고 계획도 다듬었습니다. 다음 구글 스프레드 시트는 이 활동 내용이 반영된 결과물입니다:
 
-<img src="{{ site.baseurl }}assets/images/151117-scale-large-retros-03.png" border="0" align="center">
+<img src="{{ site.baseurl }}assets/images/151117/151117-scale-large-retros-03.png" border="0" align="center">
 
 이 과정의 일환으로 우리는 독립적으로 연구 가능한 몇몇 "테마<sub>themes</sub>"를 식별했습니다(바로 이것이 스케일링 트릭입니다!). 예를 들면 "프로그램 매니지먼트<sub>program management</sub>", "신규 컨텐츠<sub>new contents</sub>", "아키텍처<sub>architecture</sub>"와 같은 형태가 됩니다. 테마는 컨텍스트와 매우 밀접하게 연관이 있기 때문에, 이를 적절하게 선택하는 것이 워킹 그룹의 핵심 업무였습니다.
 
