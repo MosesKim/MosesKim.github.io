@@ -49,11 +49,11 @@ descriptions:
   - cat: dummy
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
-  - cat: sonarqube
-    desc: "Just some placeholder posts, releated SonarQube."
+#  - cat: sonarqube
+#    desc: "Just some placeholder posts, releated SonarQube."
 
-  - cat: books
-    desc: "Just some placeholder posts, related Books."
+#  - cat: books
+#    desc: "Just some placeholder posts, related Books."
 
 # Social icons and sharing options
 #

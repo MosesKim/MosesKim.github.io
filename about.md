@@ -8,9 +8,8 @@ permalink: /about/
 
 
 - [(주)엔비티][nbt-cashslide]/ 소프트웨어 엔지니어/ Lean & Agile Evangelist<br>
-- [한동대학교][handong-global-university] 전산전자공학학부<br>
 - ISTQB CTAL Full Achieved/ IREB CPRE FL/ Certified Scrum Master
-
+- [한동대학교][handong-global-university] 전산전자공학학부<br>
 <br>
 
 #### 연락처
@@ -50,6 +49,7 @@ permalink: /about/
 
 **2015년도**
 
+- 11월) 2015 공개SW 품질관리 도구 기술 교육, "[소나큐브를 활용한 지속적인 코드 품질 개선]()" 강의 <sub>주관: 부산정보산업진흥원 동남권SW품질역량센터</sub>
 - 10월) GCS School, "[소나큐브를 활용한 지속적인 코드 품질 개선](http://medici-edu.co.kr/course/sub1_view.php?qr=&lst_code2=005&ptype=view&page=1&s_idx=78&main=Y)" 강의 <sub>주관: nipa 공개SW 역량프라자</sub>
 - 09월) GCS School, "소나큐브를 활용한 지속적인 코드 품질 개선" 기업 방문<sub>[Systran International](http://www.csli.co.kr/)</sub> 강의 <sub>주관: nipa 공개SW 역량 프라자</sub>
 - 08월) "[SW 품질 시각화와 지속적 관리, 테스팅을 만나다](http://sten.or.kr/bbs/board.php?bo_table=news&wr_id=3122)" 특강 <sub>주관: STA</sub>
