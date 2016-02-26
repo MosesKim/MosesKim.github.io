@@ -3,7 +3,7 @@ layout: post
 title: SonarLint_이슈를 사전에 예방하세요
 author: Julien Henry/ Moses Kim (Translation)
 date:   2015-10-22 18:00:00
-categories: sonarqube
+categories: SonarQube
 permalink:
 tags:
 comments: true
