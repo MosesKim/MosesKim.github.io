@@ -10,9 +10,9 @@ comments: true
 # cover: assets/images/151117/151117-sq-5_2_release-01.png
 ---
 
-> 2015년 11월 SonarQube 5.2가 릴리즈되었습니다. 당시 SonarQube의 Quality Gate 기능을 활용해 지속적인 통합(Continuous Integration) 서버의 빌드를 깨뜨릴 수 있도록 하는 Build Breaker라는 플러그인의 기능이 삭제되었숩니다. Builder Breaker 기능은 많은 커뮤니티 사용자들에게 필수적인 기능이었었고, 해당 기능의 복원을 간절히 원하는 바램들이 있었는데요... 결과적으로 SonarQube의 개발사인 SonarSource는 공식적으로 Build Breaker 플러그인을 더이상 지원하지 않기로 결정했습니다.
+> 2015년 11월 SonarQube 5.2가 릴리즈되었습니다. 당시 SonarQube의 Quality Gate 기능을 활용해 지속적인 통합(Continuous Integration) 서버의 빌드를 깨뜨릴 수 있도록 하는 Build Breaker라는 플러그인의 기능이 삭제되었숩니다. Build Breaker 기능은 많은 커뮤니티 사용자들에게 필수적인 요소였고, 해당 기능의 원복을 간절히 원하는 바램들이 있었는데요... 결과적으로 SonarQube의 개발사인 SonarSource는 공식적으로 더이상 Build Breaker 플러그인에 대한 지원을 하지 않는다고 결정했습니다([원문보기][why-you-shoul-not-use-build-breaker]).
 
-> SonarQube를 제작한 SonarSource에서 공식적인 입장을 전했습니다([원문보기][why-you-shoul-not-use-build-breaker]). 이 글은 SonarQube 블로그에 게제된 글을 번역한 것입니다.
+> 이 글은 SonarQube 블로그에 게제된 글을 번역한 것입니다.
 
 ---
 
