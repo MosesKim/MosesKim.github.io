@@ -10,7 +10,7 @@ comments: true
 # cover: assets/images/151117/151117-sq-5_2_release-01.png
 ---
 
-> 2015년 11월 SonarQube 5.2가 릴리즈되었습니다. 당시 SonarQube의 Quality Gate 기능을 활용해 지속적인 통합(Continuous Integration) 서버의 빌드를 깨뜨릴 수 있도록 하는 Build Breaker라는 플러그인의 기능이 삭제되었숩니다. Build Breaker 기능은 많은 커뮤니티 사용자들에게 필수적인 요소였고, 해당 기능의 원복을 간절히 원하는 바램들이 있었는데요... 결과적으로 SonarQube의 개발사인 SonarSource는 공식적으로 더이상 Build Breaker 플러그인에 대한 지원을 하지 않는다고 결정했습니다([원문보기][why-you-shoul-not-use-build-breaker]).
+> 2015년 11월 SonarQube 5.2가 릴리즈되었습니다. 당시 SonarQube의 Quality Gate 기능을 활용해 지속적인 통합(Continuous Integration) 서버의 빌드를 깨뜨릴 수 있도록 하는 Build Breaker라는 플러그인의 기능이 삭제 되었습니다. Build Breaker 기능은 많은 커뮤니티 사용자들에게 필수적인 요소였고, 해당 기능의 원복을 간절히 원하는 바램들이 있었는데요... 결과적으로 SonarQube의 개발사인 SonarSource는 공식적으로 더이상 Build Breaker 플러그인에 대한 지원을 하지 않는다고 결정했습니다([원문보기][why-you-should-not-use-build-breaker]).
 
 > 이 글은 SonarQube 블로그에 게제된 글을 번역한 것입니다.
 
@@ -24,7 +24,7 @@ comments: true
 
 하지만, 꼭 그렇지만도 않습니다.
 
-우리는 이 기능을 내부적으로 사용하기 시작했고, 처음에는 매우 좋아했습니다. 하지만 머지않아 우리는 몇몇 문제점들을 알게 되었습니다. 가장 주요한 문제는 CI의 Job이 다른 원인으로 인해 적색상태[^footnote2]가 될 수 있다는 것이었습니다: 빌드 자체에 문제가 있을 수 있거나(물리적인 환경이나 설정 문제...) 개발팀에서 고쳐야할 Quality Gate가 실패했기 때문일 수도 있습니다. 즉 빌드 실패의 책임 주체가 이원화 될 수 있다는 것이고, 실제 log를 보지 않는한 어떤 요소가 빌드 실패의 원인인지 파악할 수 없게 된다는 것입니다. 이 상태가 계속되면 빌드 job이 실패하는 경우, 아무도 관심을 가지지 않게 될 수도 있습니다. '그건 다른 사람들의 실수 때문일꺼야'라고 생각하게 될 것이기 때문입니다.
+우리는 이 기능을 내부적으로 사용하기 시작했고, 처음에는 매우 좋아했습니다. 하지만 머지않아 우리는 몇몇 문제점들을 알게 되었습니다. 가장 주요한 문제는 CI의 Job이 다른 원인으로 인해 적색상태[^footnote1]가 될 수 있다는 것이었습니다: 빌드 자체에 문제가 있을 수 있거나(물리적인 환경이나 설정 문제...) 개발팀에서 고쳐야할 Quality Gate가 실패했기 때문일 수도 있습니다. 즉 빌드 실패의 책임 주체가 이원화 될 수 있다는 것이고, 실제 log를 보지 않는한 어떤 요소가 빌드 실패의 원인인지 파악할 수 없게 된다는 것입니다. 이 상태가 계속되면 빌드 job이 실패하는 경우, 아무도 관심을 가지지 않게 될 수도 있습니다. '그건 다른 사람들의 실수 때문일꺼야'라고 생각하게 될 것이기 때문입니다.
 
 이러한 이유 때문에 우리는 다른 접근 방식을 선택하기로 했고, 개발자들이 그들의 자리에서 볼 수 있는 월보드에 빨간 Quality Gate를 리포트하기로 했습니다.
 
@@ -47,7 +47,7 @@ comments: true
 <br><br><br>
 ---
 
-[why-you-shoul-not-use-build-breaker]: http://www.sonarqube.org/why-you-shouldnt-use-build-breaker/
+[why-you-should-not-use-build-breaker]: http://www.sonarqube.org/why-you-shouldnt-use-build-breaker/
 [oliver-gaudin]: http://www.sonarqube.org/author/oliviergaudin/
 
 [^footnote1]: 지속적인 통합 서버에서는 빌드가 실패하는 경우 일반적으로 적색 등으로 표시한다.
