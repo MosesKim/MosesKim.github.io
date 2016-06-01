@@ -1,21 +1,34 @@
 # External gems
-gems: [jekyll-paginate]
+gems:
+  - jekyll-archives # Sorry, not GitHub pages friendly!
+  - jekyll-sitemap
+
 # Site settings
 title: WHY_the one and only thing important
 subtitle: "당연하게 해오던 것들에 '왜'라는 질문을 던지다"
 email: creatinov.kim@gmail.com
 name: Moses Kim
-description: > # A simple yet classy theme for your Jekyll website or blog.
-baseurl: "" # the subpath of your site, e.g. /blog/
+description: >
+  A simple yet classy theme for your Jekyll website or blog.
+baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://moseskim.github.io" # the base hostname & protocol for your site
-#cover: "assets/header_image.jpg"
-#logo: "assets/logo.png"
+cover: "assets/header_image.jpg"
+logo: "assets/logo.png"
 
 # Build settings
 markdown: kramdown
 paginate: 5
 paginate_path: "/page:num/"
-excerpt_separator: <!-- more -->
+
+# Archive settings (see https://github.com/jekyll/jekyll-archives/)
+#jekyll-archives:
+#  enabled:
+#    - categories
+#    - tags
+#  layout: 'archive'
+#  permalinks:
+#    category: '/category/:name/'
+#    tag: '/tag/:name/'
 
 # Disqus comments
 disqus_shortname: moseskim
@@ -29,7 +42,36 @@ comments:
 ga_tracking_id: "UA-68884203-1"
 
 # Category descriptions (for archive pages)
+descriptions:
+  - cat: jekyll
+    desc: "Posts describing Jekyll setup techniques."
 
+  - cat: dummy
+    desc: "Just some placeholder posts, lorem ipsum and the rest."
+
+#  - cat: sonarqube
+#    desc: "Just some placeholder posts, releated SonarQube."
+
+#  - cat: books
+#    desc: "Just some placeholder posts, related Books."
+
+# Social icons and sharing options
+#
+# Social settings are used in two places:
+# * In the footer, as links to your personal profiles
+# * After each blog post for sharing widgets
+#
+# Example:
+#
+# social:
+#   - name: Twitter                         # Name of the service
+#     icon: twitter                         # Font Awesome icon to use (minus fa- prefix)
+#     username: "@TheBenCentra"             # (User) Name to display in the footer link
+#     url: https://twitter.com/TheBenCentra # URL of your profile (leave blank to not display in footer)
+#     desc: Follow me on Twitter            # Description to display as link title, etc
+#     share_url: http://twitter.com/share   # URL for sharing to the service (leave blank to not allow sharing)
+#     share_title: ?text=                   # Title parameter for sharing URL
+#     share_link: "&amp;url="               # Link parameter for sharing URL
 social:
   - name: Twitter
     icon: twitter

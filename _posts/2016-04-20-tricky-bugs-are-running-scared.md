@@ -14,15 +14,9 @@ comments: true
 
 ---
 
-refer:
-
-#SonarAnalyzer for Java: Tricky Bugs are Running Scared
-
-For the past year, the SonarSource team behind the SonarAnalyzer for Java has invested most of its time in developing a [Symbolic Execution](symbolic-execution) engine in order to find the kind of tricky bugs that are almost uncatchable by developers unaided.
+## SonarAnalyzer for Java: Tricky Bugs are Running Scared
 
 지난 한 해동안 'SonarAnalyzer for java'의 개발팀은 [Symbolic Execution](symbolic-execution) engine 개발에 대부분의 시간을 사용했습니다.이 엔진을 사용해서 개발자들이 육안으로는 확인하기 어려운 트릭키한 버그들을 찾아내고자 했습니다.
-
-The SonarAnalyzer for Java’s new symbolic execution engine allows it to statically trace all the execution paths in a piece of code. We’ll probably do a blog post in the near future to explain all the related concepts: Program Point, Program State, Symbolic Value, Control Flow Graph, Stack of Symbolic Values, Constraints on Symbolic Values, … but for the time being let’s just see the engine in action.
 
 SonarAnalyzer for Java의 새로운 suymbolic execution engine을 사용하면 코드의 모든 실행 경로를 고정적으로 추적할 수 있습니다. 관련된 모든 개념을 설명하기 위한 별도의 블로그 포스크를 곧 작성할 예정입니다--Program Point, Program State, Symbolic Value, Control Flow Graph, Stack of Symbolic Values, Contraints on Symbolic Values... 하지만 우선, 개발된 엔진이 어떤 일을 하는지 먼저 소개하는 것이 좋겠습니다.
 
@@ -34,7 +28,9 @@ SonarAnalyzer for Java의 새로운 suymbolic execution engine을 사용하면 �
 
 [example-1]: https://nemo.sonarqube.org/issues/search#issues=AVKIlkdZraow0NKfILHC
 
+<br>
 <img src='http://www.sonarqube.org/wp-content/uploads/2016/03/Apache-Tika-603x500.png'>
+<br>
 
 [Example 2](example-2) is also an NPE in the Apache Tika project. This time the nullability is due to a badly handled exception.
 
@@ -42,7 +38,9 @@ SonarAnalyzer for Java의 새로운 suymbolic execution engine을 사용하면 �
 
 [example-2]: https://nemo.sonarqube.org/issues/search#issues=AVKIlnZbraow0NKfILHG
 
+<br>
 <img src='http://www.sonarqube.org/wp-content/uploads/2016/03/apache-tika-2-650x367.png'>
+<br>
 
 [Example 3](example-3) is a useless condition in the Spark project.
 
